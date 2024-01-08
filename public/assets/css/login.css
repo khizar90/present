@@ -1,0 +1,35 @@
+.authentication-wrapper {
+    background-color: #FFFC00 !important;
+    /* background-image: url('../img/bg_splash.png') !important;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto; */
+}
+
+.image img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height: auto;
+}
+.w-px-400{
+    background-color: #ffffff;
+    border-radius: 1.5rem
+}
+/* label{
+    color: #fff !important;
+}
+.form-control{
+    background-color: #000000 !important;
+}
+.input-group-text{
+    background-color: #000000 !important;
+}
+
+input, select, textarea{
+    color: #FFFFFF !important;
+} */
+
